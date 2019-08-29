@@ -1,0 +1,200 @@
+BAT缩招，AI跻身2019年最赚钱职业榜首！（附薪酬表）	https://blog.csdn.net/CSDNedu/article/details/85758254	CSDNedu
+		
+下厨房	https://blog.csdn.net/ys_230014/article/details/85853980	ysjh0014
+什么是真正的互联网思维？	https://blog.csdn.net/weixin_44380379/article/details/85854261	南蛮君主
+10分钟带你了解遗传算法（GA）的具体例证	https://blog.csdn.net/weixin_42622151/article/details/85854270	大浪淘沙丶
+flume	https://blog.csdn.net/qq_42306104/article/details/85854265	卖报的小男孩0716
+chown和chomd 修改linux的权限	https://blog.csdn.net/syr1136877833/article/details/85854262	syr1136877833
+使用 Vue.js 和 Flask 实现全栈单页面应用	https://blog.csdn.net/xp5xp6/article/details/85854253	xp5xp6
+迁移学习之语义分割对抗域适应	https://blog.csdn.net/qq_33547191/article/details/85854190	是华仔啊
+新博客地址！	https://blog.csdn.net/lzhuangfei/article/details/85854257	lzhuangfei
+构建多页面应用——静态资源的处理	https://blog.csdn.net/w13707470416/article/details/85854243	w13707470416
+年会抽奖程序：200行HTML+JavaScript写个桌面程序	https://blog.csdn.net/hursing/article/details/85851017	hursing
+2019.1.25【NOIP提高组】模拟B组 总结	https://blog.csdn.net/xuxiayang/article/details/85854234	SSL_XXY
+龙芯3A2000移植RethinkDB指南	https://blog.csdn.net/weixin_40065369/article/details/85854213	weixin_40065369
+PHP开发之-微信网页授权获取用户基本信息	https://blog.csdn.net/haoyunyun888/article/details/85853922	请叫我郝先生
+关于Java构造器	https://blog.csdn.net/tiansheshouzuo/article/details/85854230	天真的程序员
+redis.conf 配置文件	https://blog.csdn.net/u012045045/article/details/85854188	一朵风中摇曳的水仙花
+把ip地址转换为数字	https://blog.csdn.net/Ruhe_king/article/details/85854218	0Xabc
+创建类设计模式（5种）——工厂类相关模式	https://blog.csdn.net/u014297588/article/details/85854067	逆风微笑的程序员
+4-Pyhon数据类型之元组-字符串	https://blog.csdn.net/beyondlee2011/article/details/85854206	dachenzi666
+java基础_学生管理系统集合版--2019/01/05	https://blog.csdn.net/qq_40712210/article/details/85854147	TXW--CXY博客
+64 jQuery-使用ajaxSetup（）方法全局设置Ajax	https://blog.csdn.net/qq_37335220/article/details/85854194	我是大都督
+Springmvc入门（十四）HandlerMapper源码分析--RequestMappingHandlerMapping的Hander的注册	https://blog.csdn.net/qq_39290830/article/details/85775413	搬砖丶小码农
+		
+2018-12-18全球区块链今日热点	https://blog.csdn.net/withjeffrey/article/details/85082900	区块链笔记
+运维生产环境常用Linux命令	https://blog.csdn.net/u011192409/article/details/84997734	JAIR_FOREVER
+手把手教你如何安装Pycharm——靠谱的Pycharm安装详细教程	https://blog.csdn.net/pdcfighting/article/details/80297499	Python进阶者
+【编程语言学习——python】10模块	https://blog.csdn.net/xiangshiyi0724/article/details/84963082	认真学习的sy
+Xshell6 中文不限时版下载(免密匙)（笔记）	https://blog.csdn.net/qq_31362105/article/details/80706750	小迟丶
+人工智能 7.2机器学习	https://blog.csdn.net/lagoon_lala/article/details/85141119	lagoon_lala
+人工智能 人脸识别 eureka-client	https://blog.csdn.net/weixin_30947631/article/details/84995178	?Bosco???
+编程运维的一些小Tips	https://blog.csdn.net/qq_26925867/article/details/84976988	旺旺的宝宝兔
+青松资讯：李逵遇李鬼，浅谈Android上的“冒牌货”恶意软件	https://blog.csdn.net/qssec__com/article/details/84855007	qssec__com
+汽车托运物联网发展趋势	https://blog.csdn.net/weixin_44186297/article/details/85123070	weixin_44186297
+Linux 集群架构	https://blog.csdn.net/nongfuchui/article/details/85613301	nongfuchui
+CocosCreator之KUOKUO带你做个基于物理引擎的绳子关节的duang~	https://blog.csdn.net/kuokuo666/article/details/85016624	KUOKUO众享
+Navicat for mysql 导出和导入数据库	https://blog.csdn.net/feizai1208917009/article/details/85724364	木木森森林
+FFmpeg详解及常用命令使用	https://blog.csdn.net/qq_26464039/article/details/84503335	qq_1196581964
+华为IP基础快速入门-P8-OSPF原理	https://blog.csdn.net/weixin_42082138/article/details/85546374	草丛蔡一零
+CocosCreator之KUOKUO带你做疯狂木板-过桥（2）（源码分享）	https://blog.csdn.net/kuokuo666/article/details/84887693	KUOKUO众享
+mysql 数据库快速入门 数据库的发展	https://blog.csdn.net/z1162565234/article/details/85676548	6墨沫9
+服务安全与监控二	https://blog.csdn.net/weixin_42104231/article/details/84945288	狂奔的蚂蚁（达克）
+企业linux平台中用户权限管理机制	https://blog.csdn.net/weixin_44317199/article/details/85650263	weixin_44317199
+程序人生：外链建设流程与细节都有哪些	https://blog.csdn.net/qq_42302805/article/details/84883440	qq_42302805
+1.3链界观区块链资讯	https://blog.csdn.net/weixin_44245571/article/details/85676949	链界观
+		
+《俗人笔记》之《Java基础语法下》	https://blog.csdn.net/qq_33368151/article/details/84934239	钱无极
+Java 基础语法（一） 类、方法、实例变量的概念	https://blog.csdn.net/qq_35619188/article/details/85004955	三棵面包树
+区块链的3.0故事	https://blog.csdn.net/a75784326/article/details/85759942	区块链商机
+人工智能 人脸识别 eureka-client	https://blog.csdn.net/weixin_30947631/article/details/84995178	?Bosco???
+新手学游戏开发必知的一课	https://blog.csdn.net/qq_38452106/article/details/85148036	假面亚特鲁
+阿里云云解析配置	https://blog.csdn.net/cc_want/article/details/84249446	cc_want
+算法面试 人工智能 springcloud	https://blog.csdn.net/weixin_30947631/article/details/85096651	?Bosco???
+Java多线程	https://blog.csdn.net/qq_40507857/article/details/85485462	紫芝
+随想录（功能安全和软件开发）	https://blog.csdn.net/feixiaoxing/article/details/85041750	feixiaoxing
+media响应式 前端学习笔记	https://blog.csdn.net/weixin_43748935/article/details/84881384	weixin_43748935
+移动开发之设计模式- 外观模式(IOS&Android)	https://blog.csdn.net/AdrianAndroid/article/details/85037190	FlanneryZJ
+移动开发之设计模式-迭代器模式(IOS&Android)	https://blog.csdn.net/AdrianAndroid/article/details/84993363	FlanneryZJ
+牛逼的C/C++程序员是如何练成的？	https://blog.csdn.net/weixin_42743471/article/details/84887579	跟大神学C++/C
+移动端工程架构与后端工程架构的思想摩擦之旅（1）	https://blog.csdn.net/wangyiyungw/article/details/84856684	网易云
+移动开发之设计模式- 代理模式(IOS&Android)	https://blog.csdn.net/AdrianAndroid/article/details/85037482	FlanneryZJ
+破解版百度云【亲测好用】完美解决限速	https://blog.csdn.net/weixin_43687357/article/details/84883941	高山2号
+网络环境和项目环境	https://blog.csdn.net/PyTtCcMm/article/details/85706524	PyTtCcMm
+JavaSE基础【吐血整理汇总】	https://blog.csdn.net/flyingwzb/article/details/85002850	flyingwzb
+SOA面向服务体系的架构	https://blog.csdn.net/oMengQiQi1/article/details/84842158	DODOTODAY
+超级详细的阐述：大数据、云计算和人工智能的关系	https://blog.csdn.net/weixin_42142987/article/details/85332053	金曜软件工程师
+Python pip install之SSL异常处理	https://blog.csdn.net/cc_want/article/details/83960260	cc_want
+		
+HBase-简介及架构	https://blog.csdn.net/liberty12345678/article/details/85678181	青岛欢迎您
+棋盘游戏开发，专业技术汇	https://blog.csdn.net/pepqp_com/article/details/85677286	pepqp_com
+前端实现图片下载功能	https://blog.csdn.net/qq_43258252/article/details/85063970	人间草木96
+运维常用的shell命令.md	https://blog.csdn.net/u014453515/article/details/84978843	AndysCat
+Python安全笔记（一）	https://blog.csdn.net/ZHOUYAO_NJUST/article/details/84953109	ZHOUYAO_NJUST
+汽车托运物联网发展趋势	https://blog.csdn.net/weixin_44186297/article/details/85123070	weixin_44186297
+拒绝黄牛党，掌握一手资讯，爬虫都能搞定	https://blog.csdn.net/weixin_44099558/article/details/85124952	weixin_44099558
+人工智能会不会取代人类？	https://blog.csdn.net/weixin_44046073/article/details/84966939	weixin_44046073
+滚动资讯的爬取	https://blog.csdn.net/chengjintao1121/article/details/85330254	chengjintao1121
+移动开发之设计模式- 状态模式(IOS&Android)	https://blog.csdn.net/AdrianAndroid/article/details/85040019	FlanneryZJ
+闲话云计算(二) 什么是云计算?	https://blog.csdn.net/zhangli_perdue/article/details/85599803	zhangli_perdue
+火山小视频去水印解析下载工具	https://blog.csdn.net/u011884440/article/details/72910036	AlfredMac
+python前端jQuery入门	https://blog.csdn.net/czbkzmj/article/details/84877592	czbkzmj
+VUE前端娱乐版分页	https://blog.csdn.net/JayVergil/article/details/84875427	JayVergil
+2018FFmpeg音视频核心技术精讲与实战（已完结）	https://blog.csdn.net/weixin_43905817/article/details/85004408	A 小青年
+ChainDesk|扒开Fabric架构：抽象的逻辑架构与实际的运行时架构	https://blog.csdn.net/weixin_43970764/article/details/85000605	ChainDesk
+如何解决学习“视频资料”时的不专注问题	https://blog.csdn.net/qq_42758288/article/details/85018515	袁浩东
+《Hadoop》之"踽踽独行"（三）物联网概述	https://blog.csdn.net/Michael__One/article/details/85681163	从明老师
+Android中MQTT协议的使用	https://blog.csdn.net/qq_32175491/article/details/84791152	aserbao
+前端学习笔记二	https://blog.csdn.net/chs7712120/article/details/85128849	ChanWunsam
+Kotlin实战(一)	https://blog.csdn.net/zping0808/article/details/85016903	_zping
+		
+Android 音视频入门之音频采集、编码、播放	https://blog.csdn.net/feiyu1947/article/details/85332322	Android高级架构
+webgl第五课-绘制一个点的另外一种写法	https://blog.csdn.net/weixin_39452320/article/details/81106608	webgl_谷子
+策略程序的一般架构	https://blog.csdn.net/weixin_42633269/article/details/85704710	宽客在线
+2018最好用百度云破解版，百度网盘不限速下载，教你如何解决百度网盘限速的方法。亲测完美使用	https://blog.csdn.net/qq_41925894/article/details/83989357	我是个小孩子
+threeJS-Helper03-BoxHelperAndBox3Helper(包围盒助手)	https://blog.csdn.net/weixin_39452320/article/details/84714094	webgl_谷子
+大数据 云计算 hadoop的概念理解	https://blog.csdn.net/wjyyawjx/article/details/84875187	wjyyawjx
+运维经验总结	https://blog.csdn.net/Xiaotongbiji/article/details/85038007	笑桐笔记
+一文讲解分布式文件系统FastDFS，以后不要再说不知道了！	https://blog.csdn.net/qq_42882671/article/details/85142444	Java高级架构师
+人工智能 6.1遗传算法	https://blog.csdn.net/lagoon_lala/article/details/85136916	lagoon_lala
+PHP 基础介绍	https://blog.csdn.net/ke_lin10/article/details/84956422	阿霖啊
+字节跳动前端实习面经	https://blog.csdn.net/y_silence_/article/details/84981728	__失心疯__
+【编程语言学习——python】10模块	https://blog.csdn.net/xiangshiyi0724/article/details/84963082	认真学习的sy
+Hbase数据库与传统数据库的比较	https://blog.csdn.net/abcdefghwelcome/article/details/84995425	小飞猪小肥猪
+为什么物联网卡越来越便宜？	https://blog.csdn.net/qq_40798435/article/details/85099912	智宇物联
+CSDN：2018年度CSDN博客之星评选竞赛——094号，感谢您，投上的宝贵一票，感谢！感恩！	https://blog.csdn.net/qq_41185868/article/details/85333937	一个处女座的程序猿
+webgl第二课-绘制一个点	https://blog.csdn.net/weixin_39452320/article/details/81089925	webgl_谷子
+一个奇鸽破解版 ：超好用的工具箱（附一个奇鸽App下载）	https://blog.csdn.net/qq_43521382/article/details/83867012	一个奇鸽船啊
+行业需要Unity掌握到何种程度	https://blog.csdn.net/qq_38454881/article/details/85700313	IT风骚男
+用声音在一起，听荔枝CTO丁宁聊UGC声音互动平台的技术世界	https://blog.csdn.net/ones_ai/article/details/84881142	万事ONES
+Java游戏开发——拼图游戏经典版	https://blog.csdn.net/A1344714150/article/details/84888599	墨染秦月
+仓储物联网项目	https://blog.csdn.net/feit2417/article/details/84936557	王建峰
+		
+【中间件安全】Apache 安全加固规范	https://blog.csdn.net/qq_23936389/article/details/85013919	Bypass007
+撩课-Mysql第16部分-事务并发/脏读/幻读/与隔离级别	https://blog.csdn.net/lkitlike/article/details/85061608	撩课学院
+BugkuCTF之web题之多次	https://blog.csdn.net/qq_42967398/article/details/84931839	孤灬
+移动开发之设计模式- 装饰器模式(IOS&Android)	https://blog.csdn.net/AdrianAndroid/article/details/85037060	FlanneryZJ
+物联网，云计算，大数据和人工智能，之间的区别和关系	https://blog.csdn.net/qq_40196321/article/details/85030760	疯子程序员
+Scala一种编程语言	https://blog.csdn.net/qq_42721694/article/details/85001525	橙以
+翼次元空间资讯：区块链互联网酒业“心直酒快”有动作	https://blog.csdn.net/TokenRise/article/details/84929587	TokenRise
+【编程语言学习——python】10模块	https://blog.csdn.net/xiangshiyi0724/article/details/84963082	认真学习的sy
+webgl第五课-绘制一个点的另外一种写法	https://blog.csdn.net/weixin_39452320/article/details/81106608	webgl_谷子
+数据库的隔离级别及相关...	https://blog.csdn.net/xiong9999/article/details/85060264	一代小雄
+人工智能的魔术	https://blog.csdn.net/weixin_43696133/article/details/85062286	Informatica-小殷
+国内用户无法使用TikTok(国外版抖音)的解决方案	https://blog.csdn.net/xfhy_/article/details/82697609	潇风寒月
+C/C++，最经典的编程语言	https://blog.csdn.net/weixin_43770609/article/details/84945820	IT互联网C++程序员小文
+四、面向对象（上）	https://blog.csdn.net/qq_35381323/article/details/84980564	子落楸枰
+区块链学习笔记01	https://blog.csdn.net/q187543/article/details/81487268	BRUCE董
+Jenkins自动化构建Atlas Android项目配置	https://blog.csdn.net/cc_want/article/details/83993303	cc_want
+还在为取快递而烦恼吗?智宇物联助力自动快递柜	https://blog.csdn.net/qq_40798435/article/details/84872357	智宇物联
+【C++ 编程语言学习1】	https://blog.csdn.net/wb790238030/article/details/85674914	wb790238030
+网络环境和项目环境	https://blog.csdn.net/PyTtCcMm/article/details/85706524	PyTtCcMm
+大数据技术与人工智能殊途同归	https://blog.csdn.net/crhacq798/article/details/85678194	数据工程师大牛
+git的使用和学习（二）github远程库的连接和同步操作	https://blog.csdn.net/qq_41816123/article/details/84321450	齐码闯天涯
+		
+音视频技术开发周刊 77期	https://blog.csdn.net/vn9PLgZvnPs1522s82g/article/details/84949201	LiveVideoStack_
+数据库 SQL优化和触发器	https://blog.csdn.net/sinat_20744625/article/details/85063182	oneWalker
+webgl第16课-矩阵变换之缩放	https://blog.csdn.net/weixin_39452320/article/details/81211019	webgl_谷子
+三、流程控制和数组	https://blog.csdn.net/qq_35381323/article/details/84962751	子落楸枰
+颈椎病怎么能治好，看我用Python对接	https://blog.csdn.net/john_dung/article/details/84838451	john_dung
+移动开发之设计模式- 观察者模式(IOS&Android)	https://blog.csdn.net/AdrianAndroid/article/details/85039889	FlanneryZJ
+物联网的优势在哪里	https://blog.csdn.net/Lenzetech/article/details/85060507	Lenzetech
+stm32 中断架构	https://blog.csdn.net/qq_30539199/article/details/84980815	decompress
+android 适配器notifyDataSetChanged无法刷新问题解决	https://blog.csdn.net/q376794191/article/details/84448437	晚茜
+漫谈Go语言与区块链	https://blog.csdn.net/u010986776/article/details/85111009	水木·圳烜
+国内用户无法使用TikTok(国外版抖音)的解决方案	https://blog.csdn.net/xfhy_/article/details/82697609	潇风寒月
+Python安全笔记（一）	https://blog.csdn.net/ZHOUYAO_NJUST/article/details/84953109	ZHOUYAO_NJUST
+linux系统病毒查杀神器clamav	https://blog.csdn.net/yonggeit/article/details/84960478	yonggeit
+贪吃蛇游戏开发	https://blog.csdn.net/lgy54321/article/details/85016615	lgy54321
+一个前端程序员的日常生活	https://blog.csdn.net/q3254421/article/details/85144700	前端全栈君丶
+物联网通信之Coap 协议	https://blog.csdn.net/Abe_liu/article/details/85704842	Abe_liu
+2018-12-19全球区块链今日热点	https://blog.csdn.net/withjeffrey/article/details/85109487	区块链笔记
+牛逼的C/C++程序员是如何练成的？	https://blog.csdn.net/weixin_42743471/article/details/84887579	跟大神学C++/C
+抖音短视频去水印解析下载教程	https://blog.csdn.net/aaa1050070637/article/details/82627417	大漠dreamer
+Java游戏开发——拼图游戏经典版	https://blog.csdn.net/A1344714150/article/details/84888599	墨染秦月
+数据库学习--DQL(数据库查询语言)	https://blog.csdn.net/qq_43320162/article/details/85015644	一笔执念,一生等待
+		
+【程序人生】之成长	https://blog.csdn.net/xuexiiphone/article/details/84953710	小魏的马仔
+日志框架NLog简单配置使用	https://blog.csdn.net/Maybe_ch/article/details/82993833	Maybe_ch
+ES：Elasticsearch的架构（二）	https://blog.csdn.net/qq_27185879/article/details/85067712	不要喷香水
+三分钟分布式CAP理论就这么复杂	https://blog.csdn.net/zzzqqq111222/article/details/85002186	曾二爷
+阿里巴巴在内蒙古旱区试水物联网灌溉技术，一年省出1.5个西湖	https://blog.csdn.net/weixin_43970890/article/details/85098044	阿里云技术
+MySQL---建表添加语句	https://blog.csdn.net/young_foryou/article/details/85081678	白菜先森
+CSDN：2018年度CSDN博客之星评选竞赛——094号，感谢您，投上的宝贵一票，感谢！感恩！	https://blog.csdn.net/qq_41185868/article/details/85333937	一个处女座的程序猿
+如何将一个HTML页面嵌套在另一个页面中	https://blog.csdn.net/beichen3997/article/details/78730490	beichen3997
+彻底搞懂拖拽——基于鼠标事件的拖拽以及基于HTML5 API的拖拽完整实现	https://blog.csdn.net/caomage/article/details/83622628	caomage
+抖音短视频去水印解析下载教程	https://blog.csdn.net/aaa1050070637/article/details/82627417	大漠dreamer
+BugkuCTF之web题之多次	https://blog.csdn.net/qq_42967398/article/details/84931839	孤灬
+1、Python基础——编码	https://blog.csdn.net/weixin_43213658/article/details/85017480	乔眉
+webgl第五课-绘制一个点的另外一种写法	https://blog.csdn.net/weixin_39452320/article/details/81106608	webgl_谷子
+2018CS大作业——程序人生-Hello’s P2P	https://blog.csdn.net/weixin_42867636/article/details/85497861	琳的达昤
+Android常用系统广播	https://blog.csdn.net/cc_want/article/details/82344899	cc_want
+超级详细的阐述：大数据、云计算和人工智能的关系	https://blog.csdn.net/weixin_42142987/article/details/85332053	金曜软件工程师
+《俗人笔记》之《Java基础语法下》	https://blog.csdn.net/qq_33368151/article/details/84934239	钱无极
+撩课-Mysql第18部分视图	https://blog.csdn.net/lkitlike/article/details/85089425	撩课学院
+用声音在一起，听荔枝CTO丁宁聊UGC声音互动平台的技术世界	https://blog.csdn.net/ones_ai/article/details/84881142	万事ONES
+2018 我们想听到你的心声，免费送你赢取最高30个月企业版授权机会！	https://blog.csdn.net/qq_40579834/article/details/85069893	eoLinker
+人工智能 人脸识别 springcloud zuul	https://blog.csdn.net/weixin_30947631/article/details/85065259	?Bosco???
+		
+区块链系统Dapp开发	https://blog.csdn.net/qq_38456624/article/details/85064251	vx_13790252557
+VUE前端娱乐版分页	https://blog.csdn.net/JayVergil/article/details/84875427	JayVergil
+数据库——主键、外键、索引	https://blog.csdn.net/panc_guizaijianchi/article/details/85072497	panc-gzjc
+ubuntu MQTT 物联网协议	https://blog.csdn.net/weixin_42627035/article/details/84995862	iotcsdn
+webgl第19课-动画基础-旋转	https://blog.csdn.net/weixin_39452320/article/details/81229510	webgl_谷子
+ffmpeg的那点小事儿--编译ffmpeg同时支持libx264（视频编码）和libfdk（音频编码）	https://blog.csdn.net/qq_27339239/article/details/83339679	Avalanching
+游戏开发环境搭建	https://blog.csdn.net/osuckseed/article/details/85013686	东方快弟
+企业linux平台中用户权限管理机制	https://blog.csdn.net/weixin_44317199/article/details/85650263	weixin_44317199
+图形验证码安全	https://blog.csdn.net/qq_36119192/article/details/85755880	谢公子
+抖音短视频去水印解析下载教程	https://blog.csdn.net/aaa1050070637/article/details/82627417	大漠dreamer
+一文讲解分布式文件系统FastDFS，以后不要再说不知道了！	https://blog.csdn.net/qq_42882671/article/details/85142444	Java高级架构师
+BugkuCTF之web题之细心	https://blog.csdn.net/qq_42967398/article/details/84929274	孤灬
+撩课-Mysql第16部分-事务并发/脏读/幻读/与隔离级别	https://blog.csdn.net/lkitlike/article/details/85061608	撩课学院
+拒绝黄牛党，掌握一手资讯，爬虫都能搞定	https://blog.csdn.net/weixin_44099558/article/details/85124952	weixin_44099558
+日志框架NLog简单配置使用	https://blog.csdn.net/Maybe_ch/article/details/82993833	Maybe_ch
+vim配置文件属性设置	https://blog.csdn.net/localhostcom/article/details/77863200	Tobiu
+Microsoft Office 2016 激活（真实可用，还是免费的）	https://blog.csdn.net/weixin_40941966/article/details/80872533	学不会coding的程序员
+算法面试 人工智能 springcloud	https://blog.csdn.net/weixin_30947631/article/details/85096651	?Bosco???
+Java基础-File类的相关知识和常用方法	https://blog.csdn.net/NONAME999/article/details/84868820	NONAME999
+通过ffprobe分析mp4 媒体信息	https://blog.csdn.net/u013993802/article/details/84850317	iChenwin
+火山小视频去水印解析下载工具	https://blog.csdn.net/u011884440/article/details/72910036	AlfredMac
+		

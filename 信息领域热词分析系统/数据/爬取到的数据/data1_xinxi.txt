@@ -1,0 +1,352 @@
+测试工程师个人年终总结	https://www.cnblogs.com/yingyingja/p/10238148.html	Vincent83
+RocketMQ源码分析之RocketMQ事务消息实现原理上篇(二阶段提交)	https://www.cnblogs.com/yunqishequ/p/10239047.html	阿里云云栖社区
+java实现几种常用排序:冒泡排序	https://www.cnblogs.com/LearnAndGet/p/10237399.html	LearnAndGet
+并发编程（九）—— Java 并发队列 BlockingQueue 实现之 LinkedBlockingQueue 源码分析	https://www.cnblogs.com/java-chen-hao/p/10234833.html	chen_hao
+从壹开始 [ Nuxt.js ] 之一 || 为开源收录Bug之 TiBug项目 开篇讲	https://www.cnblogs.com/laozhang-is-phi/p/10236645.html	老张的哲学
+Elasticsearch Java高级客户端	https://www.cnblogs.com/cjsblog/p/10232581.html	不要乱摸
+应用AI芯片加速 Hadoop 3.0 纠删码的计算性能	https://www.cnblogs.com/qcloud1001/p/10238278.html	腾讯云+社区
+MySQL Backup mysqldump备份流程学习	https://www.cnblogs.com/dbabd/p/10238105.html	H_Johnny
+码农人生——从未学过Android如何开发Android App 案例讲解-第002期案例	https://www.cnblogs.com/fishpro/p/10237255.html	fishpro
+机器学习与Tensorflow（7）——tf.train.Saver()、inception-v3的应用	https://www.cnblogs.com/guoruxin/p/10238018.html	小伙郭
+乡下人回忆录之——2018（潇洒颓废的一年）	https://www.cnblogs.com/ingstyle/p/10237886.html	彪悍的代码不需要注释
+asp.net core 系列 4 注入服务的生存期	https://www.cnblogs.com/MrHSR/p/10234436.html	花阴偷移
+react+react-router+mobx+element打造管理后台系统---react-amdin-element	https://www.cnblogs.com/bbbiu/p/10237419.html	bling_bling
+Java并发编程：什么是CAS？这回总算知道了	https://www.cnblogs.com/yeya/p/10237376.html	xue无止境
+Quartz.Net进阶之七：QuartzNet其他的功能简述	https://www.cnblogs.com/PatrickLiu/p/10237246.html	可均可可
+Docker系列05—Docker 存储卷详解	https://www.cnblogs.com/along21/p/10237219.html	alonghub
+浏览器缓存机制	https://www.cnblogs.com/fundebug/p/understand_browser_cache_mechanism.html	Fundebug
+并发显式锁之读写锁	https://www.cnblogs.com/yangming1996/p/10237200.html	Single_Yam
+RabbitMQ与.net core(二)Producer与Exchange	https://www.cnblogs.com/chenyishi/p/10233629.html	老六代码
+MySQL执行计划分析	https://www.cnblogs.com/huchong/p/10235260.html	听风。
+MyBatis 中 SqlMapConfig 配置文件详解	https://www.cnblogs.com/zhangdongblog/p/10239401.html	就是那家伙
+测试工程师个人年终总结	https://www.cnblogs.com/yingyingja/p/10238148.html	Vincent83
+RocketMQ源码分析之RocketMQ事务消息实现原理上篇(二阶段提交)	https://www.cnblogs.com/yunqishequ/p/10239047.html	阿里云云栖社区
+java实现几种常用排序:冒泡排序	https://www.cnblogs.com/LearnAndGet/p/10237399.html	LearnAndGet
+并发编程（九）—— Java 并发队列 BlockingQueue 实现之 LinkedBlockingQueue 源码分析	https://www.cnblogs.com/java-chen-hao/p/10234833.html	chen_hao
+从壹开始 [ Nuxt.js ] 之一 || 为开源收录Bug之 TiBug项目 开篇讲	https://www.cnblogs.com/laozhang-is-phi/p/10236645.html	老张的哲学
+Elasticsearch Java高级客户端	https://www.cnblogs.com/cjsblog/p/10232581.html	不要乱摸
+应用AI芯片加速 Hadoop 3.0 纠删码的计算性能	https://www.cnblogs.com/qcloud1001/p/10238278.html	腾讯云+社区
+MySQL Backup mysqldump备份流程学习	https://www.cnblogs.com/dbabd/p/10238105.html	H_Johnny
+码农人生——从未学过Android如何开发Android App 案例讲解-第002期案例	https://www.cnblogs.com/fishpro/p/10237255.html	fishpro
+机器学习与Tensorflow（7）——tf.train.Saver()、inception-v3的应用	https://www.cnblogs.com/guoruxin/p/10238018.html	小伙郭
+乡下人回忆录之——2018（潇洒颓废的一年）	https://www.cnblogs.com/ingstyle/p/10237886.html	彪悍的代码不需要注释
+asp.net core 系列 4 注入服务的生存期	https://www.cnblogs.com/MrHSR/p/10234436.html	花阴偷移
+react+react-router+mobx+element打造管理后台系统---react-amdin-element	https://www.cnblogs.com/bbbiu/p/10237419.html	bling_bling
+Java并发编程：什么是CAS？这回总算知道了	https://www.cnblogs.com/yeya/p/10237376.html	xue无止境
+Quartz.Net进阶之七：QuartzNet其他的功能简述	https://www.cnblogs.com/PatrickLiu/p/10237246.html	可均可可
+Docker系列05—Docker 存储卷详解	https://www.cnblogs.com/along21/p/10237219.html	alonghub
+浏览器缓存机制	https://www.cnblogs.com/fundebug/p/understand_browser_cache_mechanism.html	Fundebug
+并发显式锁之读写锁	https://www.cnblogs.com/yangming1996/p/10237200.html	Single_Yam
+RabbitMQ与.net core(二)Producer与Exchange	https://www.cnblogs.com/chenyishi/p/10233629.html	老六代码
+MyBatis 中 SqlMapConfig 配置文件详解	https://www.cnblogs.com/zhangdongblog/p/10239401.html	就是那家伙
+测试工程师个人年终总结	https://www.cnblogs.com/yingyingja/p/10238148.html	Vincent83
+RocketMQ源码分析之RocketMQ事务消息实现原理上篇(二阶段提交)	https://www.cnblogs.com/yunqishequ/p/10239047.html	阿里云云栖社区
+java实现几种常用排序:冒泡排序	https://www.cnblogs.com/LearnAndGet/p/10237399.html	LearnAndGet
+并发编程（九）—— Java 并发队列 BlockingQueue 实现之 LinkedBlockingQueue 源码分析	https://www.cnblogs.com/java-chen-hao/p/10234833.html	chen_hao
+从壹开始 [ Nuxt.js ] 之一 || 为开源收录Bug之 TiBug项目 开篇讲	https://www.cnblogs.com/laozhang-is-phi/p/10236645.html	老张的哲学
+Elasticsearch Java高级客户端	https://www.cnblogs.com/cjsblog/p/10232581.html	不要乱摸
+应用AI芯片加速 Hadoop 3.0 纠删码的计算性能	https://www.cnblogs.com/qcloud1001/p/10238278.html	腾讯云+社区
+MySQL Backup mysqldump备份流程学习	https://www.cnblogs.com/dbabd/p/10238105.html	H_Johnny
+码农人生——从未学过Android如何开发Android App 案例讲解-第002期案例	https://www.cnblogs.com/fishpro/p/10237255.html	fishpro
+机器学习与Tensorflow（7）——tf.train.Saver()、inception-v3的应用	https://www.cnblogs.com/guoruxin/p/10238018.html	小伙郭
+乡下人回忆录之——2018（潇洒颓废的一年）	https://www.cnblogs.com/ingstyle/p/10237886.html	彪悍的代码不需要注释
+asp.net core 系列 4 注入服务的生存期	https://www.cnblogs.com/MrHSR/p/10234436.html	花阴偷移
+react+react-router+mobx+element打造管理后台系统---react-amdin-element	https://www.cnblogs.com/bbbiu/p/10237419.html	bling_bling
+Java并发编程：什么是CAS？这回总算知道了	https://www.cnblogs.com/yeya/p/10237376.html	xue无止境
+Quartz.Net进阶之七：QuartzNet其他的功能简述	https://www.cnblogs.com/PatrickLiu/p/10237246.html	可均可可
+Docker系列05—Docker 存储卷详解	https://www.cnblogs.com/along21/p/10237219.html	alonghub
+浏览器缓存机制	https://www.cnblogs.com/fundebug/p/understand_browser_cache_mechanism.html	Fundebug
+并发显式锁之读写锁	https://www.cnblogs.com/yangming1996/p/10237200.html	Single_Yam
+RabbitMQ与.net core(二)Producer与Exchange	https://www.cnblogs.com/chenyishi/p/10233629.html	老六代码
+MyBatis 中 SqlMapConfig 配置文件详解	https://www.cnblogs.com/zhangdongblog/p/10239401.html	就是那家伙
+测试工程师个人年终总结	https://www.cnblogs.com/yingyingja/p/10238148.html	Vincent83
+RocketMQ源码分析之RocketMQ事务消息实现原理上篇(二阶段提交)	https://www.cnblogs.com/yunqishequ/p/10239047.html	阿里云云栖社区
+java实现几种常用排序:冒泡排序	https://www.cnblogs.com/LearnAndGet/p/10237399.html	LearnAndGet
+并发编程（九）—— Java 并发队列 BlockingQueue 实现之 LinkedBlockingQueue 源码分析	https://www.cnblogs.com/java-chen-hao/p/10234833.html	chen_hao
+从壹开始 [ Nuxt.js ] 之一 || 为开源收录Bug之 TiBug项目 开篇讲	https://www.cnblogs.com/laozhang-is-phi/p/10236645.html	老张的哲学
+Elasticsearch Java高级客户端	https://www.cnblogs.com/cjsblog/p/10232581.html	不要乱摸
+应用AI芯片加速 Hadoop 3.0 纠删码的计算性能	https://www.cnblogs.com/qcloud1001/p/10238278.html	腾讯云+社区
+MySQL Backup mysqldump备份流程学习	https://www.cnblogs.com/dbabd/p/10238105.html	H_Johnny
+码农人生——从未学过Android如何开发Android App 案例讲解-第002期案例	https://www.cnblogs.com/fishpro/p/10237255.html	fishpro
+机器学习与Tensorflow（7）——tf.train.Saver()、inception-v3的应用	https://www.cnblogs.com/guoruxin/p/10238018.html	小伙郭
+乡下人回忆录之——2018（潇洒颓废的一年）	https://www.cnblogs.com/ingstyle/p/10237886.html	彪悍的代码不需要注释
+asp.net core 系列 4 注入服务的生存期	https://www.cnblogs.com/MrHSR/p/10234436.html	花阴偷移
+react+react-router+mobx+element打造管理后台系统---react-amdin-element	https://www.cnblogs.com/bbbiu/p/10237419.html	bling_bling
+Java并发编程：什么是CAS？这回总算知道了	https://www.cnblogs.com/yeya/p/10237376.html	xue无止境
+Quartz.Net进阶之七：QuartzNet其他的功能简述	https://www.cnblogs.com/PatrickLiu/p/10237246.html	可均可可
+Docker系列05—Docker 存储卷详解	https://www.cnblogs.com/along21/p/10237219.html	alonghub
+浏览器缓存机制	https://www.cnblogs.com/fundebug/p/understand_browser_cache_mechanism.html	Fundebug
+并发显式锁之读写锁	https://www.cnblogs.com/yangming1996/p/10237200.html	Single_Yam
+RabbitMQ与.net core(二)Producer与Exchange	https://www.cnblogs.com/chenyishi/p/10233629.html	老六代码
+MyBatis 中 SqlMapConfig 配置文件详解	https://www.cnblogs.com/zhangdongblog/p/10239401.html	就是那家伙
+测试工程师个人年终总结	https://www.cnblogs.com/yingyingja/p/10238148.html	Vincent83
+RocketMQ源码分析之RocketMQ事务消息实现原理上篇(二阶段提交)	https://www.cnblogs.com/yunqishequ/p/10239047.html	阿里云云栖社区
+java实现几种常用排序:冒泡排序	https://www.cnblogs.com/LearnAndGet/p/10237399.html	LearnAndGet
+并发编程（九）—— Java 并发队列 BlockingQueue 实现之 LinkedBlockingQueue 源码分析	https://www.cnblogs.com/java-chen-hao/p/10234833.html	chen_hao
+从壹开始 [ Nuxt.js ] 之一 || 为开源收录Bug之 TiBug项目 开篇讲	https://www.cnblogs.com/laozhang-is-phi/p/10236645.html	老张的哲学
+Elasticsearch Java高级客户端	https://www.cnblogs.com/cjsblog/p/10232581.html	不要乱摸
+应用AI芯片加速 Hadoop 3.0 纠删码的计算性能	https://www.cnblogs.com/qcloud1001/p/10238278.html	腾讯云+社区
+MySQL Backup mysqldump备份流程学习	https://www.cnblogs.com/dbabd/p/10238105.html	H_Johnny
+码农人生——从未学过Android如何开发Android App 案例讲解-第002期案例	https://www.cnblogs.com/fishpro/p/10237255.html	fishpro
+机器学习与Tensorflow（7）——tf.train.Saver()、inception-v3的应用	https://www.cnblogs.com/guoruxin/p/10238018.html	小伙郭
+乡下人回忆录之——2018（潇洒颓废的一年）	https://www.cnblogs.com/ingstyle/p/10237886.html	彪悍的代码不需要注释
+asp.net core 系列 4 注入服务的生存期	https://www.cnblogs.com/MrHSR/p/10234436.html	花阴偷移
+react+react-router+mobx+element打造管理后台系统---react-amdin-element	https://www.cnblogs.com/bbbiu/p/10237419.html	bling_bling
+Java并发编程：什么是CAS？这回总算知道了	https://www.cnblogs.com/yeya/p/10237376.html	xue无止境
+Quartz.Net进阶之七：QuartzNet其他的功能简述	https://www.cnblogs.com/PatrickLiu/p/10237246.html	可均可可
+Docker系列05—Docker 存储卷详解	https://www.cnblogs.com/along21/p/10237219.html	alonghub
+浏览器缓存机制	https://www.cnblogs.com/fundebug/p/understand_browser_cache_mechanism.html	Fundebug
+并发显式锁之读写锁	https://www.cnblogs.com/yangming1996/p/10237200.html	Single_Yam
+RabbitMQ与.net core(二)Producer与Exchange	https://www.cnblogs.com/chenyishi/p/10233629.html	老六代码
+MyBatis 中 SqlMapConfig 配置文件详解	https://www.cnblogs.com/zhangdongblog/p/10239401.html	就是那家伙
+测试工程师个人年终总结	https://www.cnblogs.com/yingyingja/p/10238148.html	Vincent83
+RocketMQ源码分析之RocketMQ事务消息实现原理上篇(二阶段提交)	https://www.cnblogs.com/yunqishequ/p/10239047.html	阿里云云栖社区
+java实现几种常用排序:冒泡排序	https://www.cnblogs.com/LearnAndGet/p/10237399.html	LearnAndGet
+并发编程（九）—— Java 并发队列 BlockingQueue 实现之 LinkedBlockingQueue 源码分析	https://www.cnblogs.com/java-chen-hao/p/10234833.html	chen_hao
+从壹开始 [ Nuxt.js ] 之一 || 为开源收录Bug之 TiBug项目 开篇讲	https://www.cnblogs.com/laozhang-is-phi/p/10236645.html	老张的哲学
+Elasticsearch Java高级客户端	https://www.cnblogs.com/cjsblog/p/10232581.html	不要乱摸
+应用AI芯片加速 Hadoop 3.0 纠删码的计算性能	https://www.cnblogs.com/qcloud1001/p/10238278.html	腾讯云+社区
+MySQL Backup mysqldump备份流程学习	https://www.cnblogs.com/dbabd/p/10238105.html	H_Johnny
+码农人生——从未学过Android如何开发Android App 案例讲解-第002期案例	https://www.cnblogs.com/fishpro/p/10237255.html	fishpro
+机器学习与Tensorflow（7）——tf.train.Saver()、inception-v3的应用	https://www.cnblogs.com/guoruxin/p/10238018.html	小伙郭
+乡下人回忆录之——2018（潇洒颓废的一年）	https://www.cnblogs.com/ingstyle/p/10237886.html	彪悍的代码不需要注释
+asp.net core 系列 4 注入服务的生存期	https://www.cnblogs.com/MrHSR/p/10234436.html	花阴偷移
+react+react-router+mobx+element打造管理后台系统---react-amdin-element	https://www.cnblogs.com/bbbiu/p/10237419.html	bling_bling
+Java并发编程：什么是CAS？这回总算知道了	https://www.cnblogs.com/yeya/p/10237376.html	xue无止境
+Quartz.Net进阶之七：QuartzNet其他的功能简述	https://www.cnblogs.com/PatrickLiu/p/10237246.html	可均可可
+Docker系列05—Docker 存储卷详解	https://www.cnblogs.com/along21/p/10237219.html	alonghub
+浏览器缓存机制	https://www.cnblogs.com/fundebug/p/understand_browser_cache_mechanism.html	Fundebug
+并发显式锁之读写锁	https://www.cnblogs.com/yangming1996/p/10237200.html	Single_Yam
+RabbitMQ与.net core(二)Producer与Exchange	https://www.cnblogs.com/chenyishi/p/10233629.html	老六代码
+MyBatis 中 SqlMapConfig 配置文件详解	https://www.cnblogs.com/zhangdongblog/p/10239401.html	就是那家伙
+测试工程师个人年终总结	https://www.cnblogs.com/yingyingja/p/10238148.html	Vincent83
+RocketMQ源码分析之RocketMQ事务消息实现原理上篇(二阶段提交)	https://www.cnblogs.com/yunqishequ/p/10239047.html	阿里云云栖社区
+java实现几种常用排序:冒泡排序	https://www.cnblogs.com/LearnAndGet/p/10237399.html	LearnAndGet
+并发编程（九）—— Java 并发队列 BlockingQueue 实现之 LinkedBlockingQueue 源码分析	https://www.cnblogs.com/java-chen-hao/p/10234833.html	chen_hao
+从壹开始 [ Nuxt.js ] 之一 || 为开源收录Bug之 TiBug项目 开篇讲	https://www.cnblogs.com/laozhang-is-phi/p/10236645.html	老张的哲学
+Elasticsearch Java高级客户端	https://www.cnblogs.com/cjsblog/p/10232581.html	不要乱摸
+应用AI芯片加速 Hadoop 3.0 纠删码的计算性能	https://www.cnblogs.com/qcloud1001/p/10238278.html	腾讯云+社区
+MySQL Backup mysqldump备份流程学习	https://www.cnblogs.com/dbabd/p/10238105.html	H_Johnny
+码农人生——从未学过Android如何开发Android App 案例讲解-第002期案例	https://www.cnblogs.com/fishpro/p/10237255.html	fishpro
+机器学习与Tensorflow（7）——tf.train.Saver()、inception-v3的应用	https://www.cnblogs.com/guoruxin/p/10238018.html	小伙郭
+乡下人回忆录之——2018（潇洒颓废的一年）	https://www.cnblogs.com/ingstyle/p/10237886.html	彪悍的代码不需要注释
+asp.net core 系列 4 注入服务的生存期	https://www.cnblogs.com/MrHSR/p/10234436.html	花阴偷移
+react+react-router+mobx+element打造管理后台系统---react-amdin-element	https://www.cnblogs.com/bbbiu/p/10237419.html	bling_bling
+Java并发编程：什么是CAS？这回总算知道了	https://www.cnblogs.com/yeya/p/10237376.html	xue无止境
+Quartz.Net进阶之七：QuartzNet其他的功能简述	https://www.cnblogs.com/PatrickLiu/p/10237246.html	可均可可
+Docker系列05—Docker 存储卷详解	https://www.cnblogs.com/along21/p/10237219.html	alonghub
+浏览器缓存机制	https://www.cnblogs.com/fundebug/p/understand_browser_cache_mechanism.html	Fundebug
+并发显式锁之读写锁	https://www.cnblogs.com/yangming1996/p/10237200.html	Single_Yam
+RabbitMQ与.net core(二)Producer与Exchange	https://www.cnblogs.com/chenyishi/p/10233629.html	老六代码
+程序员为什么要学算法？	https://blog.csdn.net/valada/article/details/86074050	GitChat的博客
+分享 沉淀 ！CSDN 2018博客之星年度评选正式上线，快为你喜欢的博主投票吧！	https://blog.csdn.net/blogdevteam/article/details/85235954	CSDN官方博客
+		
+分享 沉淀 ！CSDN 2018博客之星年度评选正式上线，快为你喜欢的博主投票吧！	https://blog.csdn.net/blogdevteam/article/details/85235954	CSDN官方博客
+使用计算机SN号作为计算机名字的一个小脚本 win10可用	https://blog.csdn.net/weixin_44071851/article/details/84973792	挣扎挣扎看看吧
+云计算救命稻草	https://blog.csdn.net/qq_39699765/article/details/85885639	wyx19980727
+从零开始的人工智能学习（一）	https://blog.csdn.net/qq_43316108/article/details/85675360	从零开始学习AI的菜鸟
+论事务的特性与隔离级别	https://blog.csdn.net/weixin_41328649/article/details/85720052	来自深渊的祝福
+区块链交易处理的TPS测试	https://blog.csdn.net/imbingoer/article/details/85120019	fedora015
+阿里P7年终总结：Java之集合Collection总览	https://blog.csdn.net/qq_42882671/article/details/84978705	Java高级架构师
+巨头的云计算正在吃掉世界！疯狂圈地后，谁将是下一个霸主？	https://blog.csdn.net/qq_40196321/article/details/85075178	疯子程序员
+机器学习训练秘籍_学习笔记	https://blog.csdn.net/h_hxx/article/details/84976461	h_hxx
+2018最好用百度云破解版，百度网盘不限速下载，教你如何解决百度网盘限速的方法。	https://blog.csdn.net/weixin_43687357/article/details/84304501	高山2号
+比特币与区块链快速入门	https://blog.csdn.net/u013521882/article/details/84988612	web小筑
+研发管理 - 流程篇	https://blog.csdn.net/joynet007/article/details/85071807	joynet007
+为什么物联网卡越来越便宜？	https://blog.csdn.net/qq_40798435/article/details/85099912	智宇物联
+撩课-Mysql第18部分视图	https://blog.csdn.net/lkitlike/article/details/85089425	撩课学院
+微服务Springcloud超详细教程+实战（十四）	https://blog.csdn.net/weixin_41838683/article/details/86004039	求深圳java实习工作
+【杂谈与乱码】学了编程后，重新看世界	https://blog.csdn.net/qq_40938169/article/details/84938572	蒸发杰作
+PHP 基础介绍	https://blog.csdn.net/ke_lin10/article/details/84956422	阿霖啊
+纯C语言学生管理系统（学生期末作业）	https://blog.csdn.net/wumingxiaozuzha/article/details/85812115	wumingxiaozuzha
+数据库的隔离级别及相关...	https://blog.csdn.net/xiong9999/article/details/85060264	一代小雄
+从来没有任何一篇文章会把“程序员认知”讲得如此透彻	https://blog.csdn.net/weixin_42743471/article/details/84844596	跟大神学C++/C
+移动开发之设计模式- 策略模式(IOS&Android)	https://blog.csdn.net/AdrianAndroid/article/details/85040290	FlanneryZJ
+移动开发之设计模式- 装饰器模式(IOS&Android)	https://blog.csdn.net/AdrianAndroid/article/details/85037060	FlanneryZJ
+		
+分享 沉淀 ！CSDN 2018博客之星年度评选正式上线，快为你喜欢的博主投票吧！	https://blog.csdn.net/blogdevteam/article/details/85235954	CSDN官方博客
+负载均衡常见架构	https://blog.csdn.net/taotaobaobei/article/details/85059060	桃根仙
+区块链日报@2019.1.6	https://blog.csdn.net/withjeffrey/article/details/85936608	blockchain.ai
+CSRF安全测试流程	https://blog.csdn.net/Breeze_CAT/article/details/84955701	Breeze_CAT
+编程语言学习概要与学习方法	https://blog.csdn.net/engineerxin/article/details/84931113	engineerxin
+ubuntu MQTT 物联网协议	https://blog.csdn.net/weixin_42627035/article/details/84995862	iotcsdn
+什么是人工智能、大数据、云计算、物联网？	https://blog.csdn.net/juan188/article/details/84932405	juan188
+领略无人驾驶的架构	https://blog.csdn.net/m0_38087936/article/details/85040090	I-am-Unique
+【中间件安全】Apache 安全加固规范	https://blog.csdn.net/qq_23936389/article/details/85013919	Bypass007
+xss安全测试流程	https://blog.csdn.net/Breeze_CAT/article/details/84955679	Breeze_CAT
+2019年阿里云服务器租用价格表（实时更新）	https://blog.csdn.net/qq_38461232/article/details/85626766	qq_38461232
+【本人秃顶程序员】只会增删改查，当你有一定的开发经验时，应该如何提升自己？	https://blog.csdn.net/weixin_44175121/article/details/85102639	本人秃顶程序员
+抖音短视频去水印解析下载教程	https://blog.csdn.net/aaa1050070637/article/details/82627417	大漠dreamer
+常见运维面试题	https://blog.csdn.net/qq_40907977/article/details/85019627	寰宇001
+猪猪的IT之路---Java成长之路day01下	https://blog.csdn.net/weixin_44239922/article/details/85722491	猪猪代言人
+office2016永久免费激活码（office2016密钥）	https://blog.csdn.net/liuxuekai/article/details/51951689	老K推荐
+一个月薪10000的北京程序员的真实生活	https://blog.csdn.net/weixin_42743471/article/details/85103941	跟大神学C++/C
+2018-12-19全球区块链今日热点	https://blog.csdn.net/withjeffrey/article/details/85109487	blockchain.ai
+从来没有任何一篇文章会把“程序员认知”讲得如此透彻	https://blog.csdn.net/weixin_42743471/article/details/84844596	跟大神学C++/C
+前端系列教程之CSS（引入）	https://blog.csdn.net/liang4297/article/details/84953017	liang4297
+史上最全Java面试题（带全部答案）	https://blog.csdn.net/linzhiqiang0316/article/details/80473906	林老师带你学编程
+CocosCreator之KUOKUO带你做个基于物理的跑酷游戏第一部分-做个地图加点盒子	https://blog.csdn.net/kuokuo666/article/details/84961159	KUOKUO众享
+		
+程序员为什么要学算法？	https://blog.csdn.net/valada/article/details/86074050	GitChat的博客
+分享 沉淀 ！CSDN 2018博客之星年度评选正式上线，快为你喜欢的博主投票吧！	https://blog.csdn.net/blogdevteam/article/details/85235954	CSDN官方博客
+微信小程序（看文档写实例四）微信小程序课堂宝APP实现签到子页面布局及课程视频播放页面	https://blog.csdn.net/weixin_42363997/article/details/82668104	一枝韩独秀
+mysql 数据库快速入门 数据库的发展	https://blog.csdn.net/z1162565234/article/details/85676548	6墨沫9
+2018-12-19全球区块链今日热点	https://blog.csdn.net/withjeffrey/article/details/85109487	blockchain.ai
+SQL SERVER 经典语句大全必学（3）——技巧篇	https://blog.csdn.net/soso3056/article/details/85938035	肖恩大肥羊
+C# winform 动物识别专家系统	https://blog.csdn.net/weixin_42363997/article/details/80579238	一枝韩独秀
+前端常用正则校验	https://blog.csdn.net/Zckguiying/article/details/85335077	Justicky
+前端-CSS（一）	https://blog.csdn.net/a592381841/article/details/85037004	a592381841
+LiveVideoStack音视频技术2018年度评奖揭晓	https://blog.csdn.net/vn9PLgZvnPs1522s82g/article/details/84987997	LiveVideoStack_
+JQuery（学习笔记七）JQuery仿京东产品详情页面	https://blog.csdn.net/weixin_42363997/article/details/82528081	一枝韩独秀
+三、流程控制和数组	https://blog.csdn.net/qq_35381323/article/details/84962751	子落楸枰
+为什么都说比特币很安全，安全在哪	https://blog.csdn.net/weixin_43838346/article/details/85701172	YourBTCC
+JAVA平台分布式自增长ID 的解决方案分析对比	https://blog.csdn.net/RodJohnsonDoctor/article/details/83038152	半部论语
+微信小程序（看文档写实例十）微信小程序课堂宝APP实现我的模块相关界面及逻辑	https://blog.csdn.net/weixin_42363997/article/details/82867240	一枝韩独秀
+程序人生 HELLO P2P	https://blog.csdn.net/qq_41986714/article/details/85498825	qq_41986714
+HIT计算机系统大作业------程序人生-Hello’s P2P	https://blog.csdn.net/weixin_42017042/article/details/85468924	24kb_
+使用计算机SN号作为计算机名字的一个小脚本 win10可用	https://blog.csdn.net/weixin_44071851/article/details/84973792	挣扎挣扎看看吧
+人工智能_遗传算法	https://blog.csdn.net/qq_36260974/article/details/84404357	魏宇轩
+可视化FreeBasic集成开发环境	https://blog.csdn.net/yfvb2010/article/details/79369125	勇芳软件
+Linux目录总结	https://blog.csdn.net/weixin_43916668/article/details/85543250	weixin_43916668
+移动开发之设计模式- 策略模式(IOS&Android)	https://blog.csdn.net/AdrianAndroid/article/details/85040290	FlanneryZJ
+python基础之分支语句在开发中的应用场景、分支语句的基本用法	https://blog.csdn.net/weixin_43706509/article/details/85944749	weixin_43706509
+		
+VSCode+Git+SCSS部分配置总结	https://blog.csdn.net/qq_24908301/article/details/86080583	白了白i
+Java&LeedCode 初入门——035. 搜索插入位置	https://blog.csdn.net/qq_27480345/article/details/86080584	红鲤鱼绿鲤鱼与赤小豆
+(转)ThreadPoolExecutor的执行顺序	https://blog.csdn.net/lingli219/article/details/86080571	lingli219
+元素类型为 "resultMap" 的内容必须匹配 "(constructor?,id*,result*,association*,collection*,discriminator?)"	https://blog.csdn.net/u012060033/article/details/86077988	上善若泪
+单例模式获取某个类对象（ThreadLocal方式）	https://blog.csdn.net/CoderTnT/article/details/86080369	CoderTnT
+vue简单封装axios为通用方法	https://blog.csdn.net/weixin_41952198/article/details/86080577	llaaakk
+linux端口开放指定端口的两种方法	https://blog.csdn.net/weixin_40931184/article/details/86080531	MaChuXiang
+mybatis的insert()和insertSelective()方法的区别	https://blog.csdn.net/tiantianbuju123/article/details/86036431	爱做梦的小菜鸡
+面试王者回答redis	https://blog.csdn.net/hgdl_sanren/article/details/86080483	五指灵猿
+Java三大特殊类（String Object 包装类）	https://blog.csdn.net/weixin_42617262/article/details/86080567	猪饲夫妇、
+滑动知识相关整理	https://blog.csdn.net/yypccc/article/details/86080554	yypccc
+merge-sorted-array（合并已排序的数组）	https://blog.csdn.net/w7239/article/details/86080552	走走停停yyl
+CNN卷积神经网络学习笔记	https://blog.csdn.net/Tae_up/article/details/86080547	Tae_up
+JavaScript基础	https://blog.csdn.net/qq_40771478/article/details/86080539	眼神超凶
+Myeclipse中tomcat发布项目导致内存溢出	https://blog.csdn.net/dazhong2012/article/details/86080045	dazhong2012
+Linux介绍、Workstation Player虚拟机安装、CentOS 7系统安装(分辨率调节图解) 完整攻略	https://blog.csdn.net/weixin_38134491/article/details/86021555	ROBIN.FANG
+HTML5前端开发入门之3D长方体轮播 实战	https://blog.csdn.net/qq_41886761/article/details/86080521	小毛裤
+分布式锁的三种实现	https://blog.csdn.net/chixushuchu/article/details/86080517	chixushuchu
+关于服务器模型与负载	https://blog.csdn.net/h490516509/article/details/86078208	h490516509
+Loading class `com.mysql.jdbc.Driver'. This is deprecated	https://blog.csdn.net/weixin_37490221/article/details/86080439	枣面包
+北京福寿堂中医不为人知的另一面	https://blog.csdn.net/qq_38506423/article/details/86080504	北京福寿堂中医_
+		
+程序员为什么要学算法？	https://blog.csdn.net/valada/article/details/86074050	GitChat的博客
+分享 沉淀 ！CSDN 2018博客之星年度评选正式上线，快为你喜欢的博主投票吧！	https://blog.csdn.net/blogdevteam/article/details/85235954	CSDN官方博客
+四、面向对象（上）	https://blog.csdn.net/qq_35381323/article/details/84980564	子落楸枰
+一个月薪10000的北京程序员的真实生活	https://blog.csdn.net/weixin_42743471/article/details/85103941	跟大神学C++/C
+【中间件安全】IIS7.0 安全加固规范	https://blog.csdn.net/qq_23936389/article/details/85013920	Bypass007
+闲话云计算(四) 云计算里的分布式技术	https://blog.csdn.net/zhangli_perdue/article/details/85756637	zhangli_perdue
+运维笔记--rsync--NFS	https://blog.csdn.net/m0_37574578/article/details/85338297	AXslashl
+微信小程序（看文档写实例六）微信小程序课堂宝APP实现签到逻辑	https://blog.csdn.net/weixin_42363997/article/details/82749423	一枝韩独秀
+【杂谈与乱码】学了编程后，重新看世界	https://blog.csdn.net/qq_40938169/article/details/84938572	蒸发杰作
+SQL SERVER 经典语句大全必学（3）——技巧篇	https://blog.csdn.net/soso3056/article/details/85938035	肖恩大肥羊
+springcloud底层原理	https://blog.csdn.net/m0_38101212/article/details/84999011	m0_38101212
+运维经验总结	https://blog.csdn.net/Xiaotongbiji/article/details/85038007	笑桐笔记
+浅谈Linux用户管理	https://blog.csdn.net/weixin_44317199/article/details/85346314	weixin_44317199
+项目部分展示-3D在线试衣系统解决方案	https://blog.csdn.net/weixin_39452320/article/details/81699290	webgl_谷子
+FFmpeg音视频核心技术精讲与实战(最新最全)	https://blog.csdn.net/weixin_44211066/article/details/85329707	weixin_44211066
+数据库 SQL优化和触发器	https://blog.csdn.net/sinat_20744625/article/details/85063182	oneWalker
+移动开发之设计模式- 装饰器模式(IOS&Android)	https://blog.csdn.net/AdrianAndroid/article/details/85037060	FlanneryZJ
+贪吃蛇游戏开发	https://blog.csdn.net/lgy54321/article/details/85016615	lgy54321
+微信小程序（看文档写实例八）微信小程序课堂宝APP实现练习模块前台	https://blog.csdn.net/weixin_42363997/article/details/82808029	一枝韩独秀
+ThermalLabel SDK 8.0 【标签条码】 for .NET	https://blog.csdn.net/john_dwh/article/details/85561849	john_dwh
+人工智能-马尔可夫模型	https://blog.csdn.net/iamsongyu/article/details/85861401	iamsongyu
+大型网站的架构	https://blog.csdn.net/qq_31142553/article/details/85527641	ThunderclapT丶
+胡思乱想综合征	https://blog.csdn.net/u013904227/article/details/85932354	-YellowMax-
+		
+程序员为什么要学算法？	https://blog.csdn.net/valada/article/details/86074050	GitChat的博客
+分享 沉淀 ！CSDN 2018博客之星年度评选正式上线，快为你喜欢的博主投票吧！	https://blog.csdn.net/blogdevteam/article/details/85235954	CSDN官方博客
+微信小程序（看文档写实例五）微信小程序课堂宝APP实现获取签到列表	https://blog.csdn.net/weixin_42363997/article/details/82709168	一枝韩独秀
+整理了10个干净、好用的BT、磁力链搜索网站给大家	https://blog.csdn.net/weixin_42255362/article/details/81207763	KalrHunt
+《Hadoop》之"踽踽独行"（三）物联网概述	https://blog.csdn.net/Michael__One/article/details/85681163	从明老师
+机器学习训练秘籍_学习笔记	https://blog.csdn.net/h_hxx/article/details/84976461	h_hxx
+项目部分展示-3D在线试衣系统解决方案	https://blog.csdn.net/weixin_39452320/article/details/81699290	webgl_谷子
+闲话云计算(四) 云计算里的分布式技术	https://blog.csdn.net/zhangli_perdue/article/details/85756637	zhangli_perdue
+教大家一个可以用迅雷全速下载百度网盘文件的方法	https://blog.csdn.net/lemonix7/article/details/80978143	真真的菜狗子
+【从零开始人工智能01】人工智能运行开发环境搭建	https://blog.csdn.net/weixin_44107621/article/details/85879270	hdrwind
+详细讲解混合编程——C++调用MATLAB程序，以及常用问题解决（附加程序演示和下载）	https://blog.csdn.net/qq_26464039/article/details/84305030	qq_1196581964
+区块链的3.0故事	https://blog.csdn.net/a75784326/article/details/85759942	区块链商机
+日志框架NLog简单配置使用	https://blog.csdn.net/Maybe_ch/article/details/82993833	Maybe_ch
+数据库学习总结（六）——查询练习题（1）	https://blog.csdn.net/qq_43501509/article/details/85957778	叫我小仙女嘛
+2018最好用百度云破解版，百度网盘不限速下载，教你如何解决百度网盘限速的方法。亲测完美使用	https://blog.csdn.net/qq_41925894/article/details/83989357	我是个小孩子
+音视频编辑软件哪个好	https://blog.csdn.net/Tybyqi/article/details/85067705	Tybyqi
+《物联网设备安全》读后感	https://blog.csdn.net/hello3389/article/details/85843780	hello3389
+物联网，云计算，大数据和人工智能，之间的区别和关系	https://blog.csdn.net/qq_40196321/article/details/85030760	疯子程序员
+干货分享：十年大厂资深程序员的开发经验总结	https://blog.csdn.net/hellojackjiang2011/article/details/85106016	hellojackjiang2011
+Microsoft Office 2016 激活（真实可用，还是免费的）	https://blog.csdn.net/Fina99/article/details/81668217	Fain_99
+区块链笔记-转走收藏	https://blog.csdn.net/weixin_42239721/article/details/84986418	Johnson Guan
+python操作Redis（最新各种方法）	https://blog.csdn.net/ltf201834/article/details/84975724	雨轩恋i
+汽车托运物联网发展趋势	https://blog.csdn.net/weixin_44186297/article/details/85123070	weixin_44186297
+		
+分享 沉淀 ！CSDN 2018博客之星年度评选正式上线，快为你喜欢的博主投票吧！	https://blog.csdn.net/blogdevteam/article/details/85235954	CSDN官方博客
+微服务架构的特性	https://blog.csdn.net/qq_30505673/article/details/84979592	wilson93
+Elasticsearch运维经验总结	https://blog.csdn.net/weixin_43947499/article/details/84942329	运小白
+2019最新Java实战开发今日头条资讯网站	https://blog.csdn.net/weixin_44240109/article/details/85924377	weixin_44240109
+Microsoft Office 2016 激活（真实可用，还是免费的）	https://blog.csdn.net/Fina99/article/details/81668217	Fain_99
+一个月薪10000的北京程序员的真实生活	https://blog.csdn.net/weixin_42743471/article/details/85103941	跟大神学C++/C
+裁员、年终奖减半：在公司打工，你永远不知道意外和明天哪个先来	https://blog.csdn.net/weixin_42743471/article/details/85238211	跟大神学C++/C
+胡思乱想综合征	https://blog.csdn.net/u013904227/article/details/85932354	-YellowMax-
+[CSAPP大作业] HELLO的一生	https://blog.csdn.net/FZHvampire/article/details/85810811	FZHvampire
+【程序人生】之成长	https://blog.csdn.net/xuexiiphone/article/details/84953710	小魏的马仔
+青松资讯：Anonymous卷土重来 OpIcarus2018持续发威	https://blog.csdn.net/qssec__com/article/details/85065786	qssec__com
+微信小程序（看文档写实例一）微信小程序计算器实例	https://blog.csdn.net/weixin_42363997/article/details/82218657	一枝韩独秀
+移动开发之设计模式-桥接模式(IOS&Android)	https://blog.csdn.net/AdrianAndroid/article/details/85036750	FlanneryZJ
+Scala一种编程语言	https://blog.csdn.net/qq_42721694/article/details/85001525	橙以
+国人创造中文编程语言的优势	https://blog.csdn.net/wuxuanecios/article/details/85664255	准大人
+Postman 使用方法详解	https://blog.csdn.net/fxbin123/article/details/80428216	痴乙
+xss安全测试流程	https://blog.csdn.net/Breeze_CAT/article/details/84955679	Breeze_CAT
+物联网之MQTT 协议	https://blog.csdn.net/Abe_liu/article/details/85704440	Abe_liu
+POINTERS ON C【C和指针】	https://blog.csdn.net/qq_40507857/article/details/83931809	紫芝
+比特币与区块链快速入门	https://blog.csdn.net/u013521882/article/details/84988612	web小筑
+滚动资讯的爬取	https://blog.csdn.net/chengjintao1121/article/details/85330254	chengjintao1121
+关于数据库范式的理解	https://blog.csdn.net/Master_Kin/article/details/85863411	Master_Kin
+		
+分享 沉淀 ！CSDN 2018博客之星年度评选正式上线，快为你喜欢的博主投票吧！	https://blog.csdn.net/blogdevteam/article/details/85235954	CSDN官方博客
+python前端jQuery综合应用	https://blog.csdn.net/czbkzmj/article/details/84942221	czbkzmj
+云计算救命稻草	https://blog.csdn.net/qq_39699765/article/details/85885639	wyx19980727
+2019年阿里云服务器租用价格表（实时更新）	https://blog.csdn.net/qq_38461232/article/details/85626766	qq_38461232
+物联网开源平台scIoT	https://blog.csdn.net/imlsq/article/details/85857150	imlsq
+Sql常用子句查询	https://blog.csdn.net/weixin_42363997/article/details/81303922	一枝韩独秀
+人工智能 6.1遗传算法	https://blog.csdn.net/lagoon_lala/article/details/85136916	lagoon_lala
+编程运维的一些小Tips	https://blog.csdn.net/qq_26925867/article/details/84976988	旺旺的宝宝兔
+前端图片的效果	https://blog.csdn.net/qq_40862118/article/details/85802848	阿胡胡
+飞行者虚拟定位苹果免越狱使用教程+常见问题及解决方案（免费试用）	https://blog.csdn.net/weixin_44401067/article/details/85782136	weixin_44401067
+CocosCreator之KUOKUO带你做个基于物理引擎的绳子关节的duang~	https://blog.csdn.net/kuokuo666/article/details/85016624	KUOKUO众享
+Python学习（一）解释器与编译器区别	https://blog.csdn.net/qq_34696203/article/details/81332167	好好学习天天向上天天再向上
+Webstorm 最新激活码 多种破解方式(持续更新...)	https://blog.csdn.net/qq_24309787/article/details/81354678	肉肉分你一半
+致移动开发的后10年	https://blog.csdn.net/qq_25327549/article/details/85861735	zhangfaming0708
+webgl第19课-动画基础-旋转	https://blog.csdn.net/weixin_39452320/article/details/81229510	webgl_谷子
+新手学游戏开发必知的一课	https://blog.csdn.net/qq_38452106/article/details/85148036	假面亚特鲁
+微信小程序（看文档写实例十）微信小程序课堂宝APP实现我的模块相关界面及逻辑	https://blog.csdn.net/weixin_42363997/article/details/82867240	一枝韩独秀
+人工智能 = 物联网，大数据 + 云计算	https://blog.csdn.net/weixin_44401335/article/details/85785135	只想让你记住我
+前端学习（三）javascript（*）	https://blog.csdn.net/stanwuc/article/details/84976224	stanwuc
+Android 音视频入门之音频采集、编码、播放	https://blog.csdn.net/feiyu1947/article/details/85332322	Android高级架构
+shader01_texture简单应用	https://blog.csdn.net/weixin_39452320/article/details/84981095	webgl_谷子
+全球区块链一周热点	https://blog.csdn.net/withjeffrey/article/details/84993274	blockchain.ai
+		
+分享 沉淀 ！CSDN 2018博客之星年度评选正式上线，快为你喜欢的博主投票吧！	https://blog.csdn.net/blogdevteam/article/details/85235954	CSDN官方博客
+微服务Springcloud超详细教程+实战（十四）	https://blog.csdn.net/weixin_41838683/article/details/86004039	求深圳java实习工作
+JQuery（学习笔记六）JQuery常用实例	https://blog.csdn.net/weixin_42363997/article/details/82503327	一枝韩独秀
+破解版百度云【亲测好用】完美解决限速	https://blog.csdn.net/weixin_43687357/article/details/84883941	高山2号
+区块链 创建Hyperledger Fabric区块链网络	https://blog.csdn.net/liruizi/article/details/84998364	李大瑞瑞儿
+撩课-Mysql第7部分页与实体完整性	https://blog.csdn.net/lkitlike/article/details/84997524	撩课学院
+如何把小电影女主角换成Angelababy，一百行代码搞定AI换脸技术	https://blog.csdn.net/eminemning/article/details/80399590	eminemning
+微信小程序（看文档写实例二）微信小程序课堂宝APP	https://blog.csdn.net/weixin_42363997/article/details/82529513	一枝韩独秀
+移动开发之设计模式- 装饰器模式(IOS&Android)	https://blog.csdn.net/AdrianAndroid/article/details/85037060	FlanneryZJ
+华为IP基础快速入门-P8-OSPF原理	https://blog.csdn.net/weixin_42082138/article/details/85546374	草丛蔡一零
+人工智能会不会取代人类？	https://blog.csdn.net/weixin_44046073/article/details/84966939	weixin_44046073
+对 Kotlin 与 Java 编程语言的思考	https://blog.csdn.net/qianfeng_dashuju/article/details/84942396	qianfeng_dashuju
+webgl第19课-动画基础-旋转	https://blog.csdn.net/weixin_39452320/article/details/81229510	webgl_谷子
+物联网时代，物联网卡将何去何从？	https://blog.csdn.net/qq_40798435/article/details/85099991	智宇物联
+程序员上班没事做该怎么办	https://blog.csdn.net/AikesLs/article/details/85710135	AikesLs
+Mysql运维基础操作	https://blog.csdn.net/weixin_38642130/article/details/84937186	微鸽
+微信小程序（看文档写实例八）微信小程序课堂宝APP实现练习模块前台	https://blog.csdn.net/weixin_42363997/article/details/82808029	一枝韩独秀
+数据库新技术前沿总结	https://blog.csdn.net/weixin_42034217/article/details/84556830	小九GIS 笔记
+移动开发之设计模式- 责任链模式(IOS&Android)	https://blog.csdn.net/AdrianAndroid/article/details/85038775	FlanneryZJ
+为什么物联网卡越来越便宜？	https://blog.csdn.net/qq_40798435/article/details/85099912	智宇物联
+移动开发之设计模式-桥接模式(IOS&Android)	https://blog.csdn.net/AdrianAndroid/article/details/85036750	FlanneryZJ
+前端---数据可视化	https://blog.csdn.net/qq_42820059/article/details/84967143	怪人& Y
+		
